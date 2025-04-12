@@ -5,7 +5,7 @@
 [https://www.figma.com/design/PZZ4jFRYRQ2ZumFhdRCp9o/E-commerce-Wireframe?nodeid=706-5368&p=f&t=lE5sbM5V0kXYM9Rb-0  
 ](https://www.figma.com/design/5LyFsn52fBGA8rv0lQWxpI/High_Fidelity_Wireframe_E-commerce_Grocery?node-id=0-1&p=f&t=ZvofRzMy21d30mD1-0)
 ## Prototype :  
-https://www.figma.com/proto/PZZ4jFRYRQ2ZumFhdRCp9o/E-commerce-Wireframe?node-id=502-5170&p=f&t=KyqJCzIvGVthhH0A-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=440%3A1728  
+https://www.figma.com/proto/PZZ4jFRYRQ2ZumFhdRCp9o/E-commerce-Wireframe?node-id=440-1728&p=f&t=KyqJCzIvGVthhH0A-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=440%3A1728  
 # E-commerce Grocey App UX Design  
 ## Group - 21  
 Devansh Modi - 202201198  
